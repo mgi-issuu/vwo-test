@@ -2,20 +2,20 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 5
-  cacheKey: 8
+  version: 4
+  cacheKey: 7
 
 "murmurhash@npm:^0.0.2":
   version: 0.0.2
   resolution: "murmurhash@npm:0.0.2"
-  checksum: e06d1e7cfdc39d742584d96af30e9b26bd44c995b9ced192b62c36b52898347ac28d32a9a94f5e0b286339d45657490ae32ed42ead75ef2a15aef9cfe386e5fa
+  checksum: a1750669aeca882d620954b31f71fc4711e8b02c22557e8023fbe4a720727bf1111148ad2a58b3e6812605cdaf301cfbc60fd2602e72f73cee6af27ee5073132
   languageName: node
   linkType: hard
 
 "superstruct@npm:^0.10.12":
   version: 0.10.13
   resolution: "superstruct@npm:0.10.13"
-  checksum: 449305f892a63e69abac2dddf07199774e249482a73b295745cebcb75b7e35572ca3404598828c03763c08dbd79d3d15a33ae3a600e9c9e148a6fe33521ce88f
+  checksum: b3de33012688aa43150c9ca9ba525232b498b040f21825f879e961a7b00caad6e2a81a36e39ec29a22a0506cbebffe311beb8c8c28c4758760a666e95b854908
   languageName: node
   linkType: hard
 
@@ -24,7 +24,7 @@ __metadata:
   resolution: "uuid@npm:3.4.0"
   bin:
     uuid: ./bin/uuid
-  checksum: 58de2feed61c59060b40f8203c0e4ed7fd6f99d42534a499f1741218a1dd0c129f4aa1de797bcf822c8ea5da7e4137aa3673431a96dae729047f7aca7b27866f
+  checksum: 1ce3f37e214d6d0dc94a6a9663a0365013ace66bc3fd5b203e6f5d2eeb978aaee1192367222386345d30b4c6a447928c501121aa84c637724bf105ef57284949
   languageName: node
   linkType: hard
 
@@ -36,14 +36,14 @@ __metadata:
     superstruct: ^0.10.12
     uuid: ^3.3.2
     vwo-sdk-log-messages: "git+https://github.com/wingify/vwo-sdk-log-messages.git#v0.1.0"
-  checksum: 9f68e334df2279c7899e5d570ecb2fe5f4be54eb2e2af98bf9cb524a2340ba7a4bab19c779c429713c01e3c9d12794cac8e03e9df41a589231d714e5416f1ac8
+  checksum: 93f22f6a3d1eb199421e64e12839b87582b7f30ab66dac24baf1a41bfbc48229d8c61351bd106468dc8e04d9c0eaf10375691411e7d685644a7b93a2415c6e84
   languageName: node
   linkType: hard
 
 "vwo-sdk-log-messages@git+https://github.com/wingify/vwo-sdk-log-messages.git#v0.1.0":
   version: 0.1.0
   resolution: "vwo-sdk-log-messages@https://github.com/wingify/vwo-sdk-log-messages.git#commit=8fe8a1eb08093d672a8ceffb245c640be0d5db9f"
-  checksum: 8bdcb155b801a642311f9182c13edd338142e65fcc29e1336aca7f5fc59d3c22a4cd262cce081f6190dfed6e8db31a0455502459140feb849c5391de2f005786
+  checksum: 43464eeab6fe8b2d303017ac97a8e7118b7bd94cccf3060d3c080fe07135396f4f6ae6d0eb995cb2fc7f849783d24c9c6524686e167919116943a60213677c00
   languageName: node
   linkType: hard
 
