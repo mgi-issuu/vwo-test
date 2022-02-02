@@ -1,0 +1,17 @@
+.DS_Store
+.vscode
+node_modules
+yarn-error.log
+
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+# Files need to be gitignored, when not using Zero-installs:
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+# It is important to maintain the order of the above list
+
+!.git/wofklows/*
